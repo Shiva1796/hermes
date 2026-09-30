@@ -1,6 +1,6 @@
 # NyxKeys Hermes
 
-![NyxKeys Hermes](https://imagedelivery.net/5Lj-4KVs36OWCtiVSZ4L1Q/bd9b4a5e-22b9-4ca1-54c0-a578e045a000/public)
+![NyxKeys Hermes](https://imagedelivery.net/5Lj-4KVs36OWCtiVSZ4L1Q/ea8b3594-f606-4271-d9d8-52596f303f00/public)
 
 Firmware, VIA definitions and documentation for the NyxKeys Hermes 24-key numpad.
 
