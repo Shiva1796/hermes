@@ -9,6 +9,8 @@ The southpaw Hermes: a mirrored 24-key numpad with a dedicated function row (F4â
 
 QMK source: [`Shiva1796/qmk_firmware` @ `hermes_sp_main`](https://github.com/Shiva1796/qmk_firmware/tree/hermes_sp_main/keyboards/nyxkeys/hermes) (keymap: [`default_sp`](https://github.com/Shiva1796/qmk_firmware/tree/hermes_sp_main/keyboards/nyxkeys/hermes/keymaps/default_sp))
 
+Switch plates: see [`plates/`](../plates/). The Hermes SP is hot-swap only and uses the **same plate files as the standard Hermes**: both `Hermes Switch Plate HS 1.0.DXF` and `Hermes Switch Plate Solder.DXF` fit it.
+
 ## Default keymap
 
 | Layer | Access              | Contents |

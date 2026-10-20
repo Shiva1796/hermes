@@ -13,6 +13,17 @@ The Hermes comes in two versions. Pick the folder that matches your board:
 
 Each folder has its own README with the keymap, VIA setup and flashing instructions.
 
+## Switch plates
+
+Plate files are in [`plates/`](plates/):
+
+| Plate | Solder PCB (Hermes only) | Hot-swap PCB (Hermes and Hermes SP) |
+|---|---|---|
+| `Hermes Switch Plate HS 1.0.DXF` | ✗ | ✓ |
+| `Hermes Switch Plate Solder.DXF` | ✓ | ✓ |
+
+> **Note:** Hermes and Hermes SP (southpaw) use the **same plate files**. The solder plate fits every Hermes PCB; the hot-swap plate does not fit the solder PCB. The Hermes SP is hot-swap only.
+
 ## QMK source
 
 The firmware is built from the NyxKeys fork of QMK:

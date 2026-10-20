@@ -9,6 +9,8 @@ The standard Hermes: a 24-key numpad with a dedicated function row (F1–F4), op
 
 QMK source: [`Shiva1796/qmk_firmware` @ `hermes_main`](https://github.com/Shiva1796/qmk_firmware/tree/hermes_main/keyboards/nyxkeys/hermes) (keymap: [`default`](https://github.com/Shiva1796/qmk_firmware/tree/hermes_main/keyboards/nyxkeys/hermes/keymaps/default))
 
+Switch plates: see [`plates/`](../plates/). The solder plate (`Hermes Switch Plate Solder.DXF`) fits both the solder and hot-swap PCBs. The hot-swap plate (`Hermes Switch Plate HS 1.0.DXF`) fits the hot-swap PCB only.
+
 ## Default keymap
 
 | Layer | Access              | Contents |
